@@ -19,3 +19,11 @@ The script will let you know where it’s writing output to (which can be change
 Once it’s finished, you’ll have a JSON file full of your posts. Go now, and do with them what you will :)
 
 Perhaps you could import them into your [indieweb](http://indiewebcamp.com) site so you own your data and aren’t reliant on a donation-supported pod.
+
+## Background
+
+I used D* for ~6 months before becoming disenchanted and searching a more sustainable way to own my identity and content.
+
+Now I’ve found that and have established [my identity](http://waterpigs.co.uk) online, I wanted to import my old D* content. But the tools were broken.
+
+So I made tools which worked. Initial idea and algorithm/URL documentation [here](http://waterpigs.co.uk/notes/997/).
